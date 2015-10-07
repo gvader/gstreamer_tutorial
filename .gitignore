@@ -1,0 +1,10 @@
+*.o
+*.out
+*.a
+*.so
+*.pyc
+*ycm_extra_conf.py
+
+*.swp
+*.swo
+*~
